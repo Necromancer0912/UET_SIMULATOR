@@ -1,0 +1,48 @@
+---- Summary of optional ns-3 features:
+Build profile                 : optimized
+Build directory               : /Users/sayan/Sayan/Study/Rinku_maam/NS3_UET/ns-3-alibabacloud/simulation/build
+BRITE Integration             : OFF (missing dependency)
+DES Metrics event collection  : OFF (not requested)
+DPDK NetDevice                : OFF (not requested)
+Emulation FdNetDevice         : OFF (not requested)
+Examples                      : OFF (not requested)
+File descriptor NetDevice     : OFF (missing dependency)
+GNU Scientific Library (GSL)  : ON
+GtkConfigStore                : OFF (missing dependency)
+LibXml2 support               : ON
+MPI Support                   : OFF (not requested)
+Multithreaded Simulation      : OFF (not requested)
+ns-3 Click Integration        : OFF (missing dependency)
+ns-3 OpenFlow Integration     : OFF (missing dependency)
+Netmap emulation FdNetDevice  : OFF (not requested)
+PyViz visualizer              : OFF (missing dependency)
+Python API Scanning Support   : OFF (not requested)
+Python Bindings               : OFF (not requested)
+Real Time Simulator           : OFF (missing dependency)
+SQLite support                : ON
+Tap Bridge                    : OFF (not requested)
+Tap FdNetDevice               : OFF (not requested)
+Tests                         : OFF (not requested)
+
+
+Modules configured to be built:
+antenna                   aodv                      applications              
+bridge                    buildings                 config-store              
+core                      csma                      csma-layout               
+dsdv                      dsr                       energy                    
+flow-monitor              internet                  internet-apps             
+lr-wpan                   lte                       mesh                      
+mobility                  netanim                   network                   
+nix-vector-routing        olsr                      point-to-point            
+point-to-point-layout     propagation               sixlowpan                 
+spectrum                  stats                     topology-read             
+traffic-control           uan                       virtual-net-device        
+wave                      wifi                      wimax                     
+
+
+Modules that cannot be built:
+brite                     click                     fd-net-device             
+mpi                       mtp                       openflow                  
+tap-bridge                test                      visualizer                
+
+
