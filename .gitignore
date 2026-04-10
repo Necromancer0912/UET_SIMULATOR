@@ -7,7 +7,10 @@
 simulation/build/ns3/*
 simulation/build/.wafpickle-*
 simulation/build/.old_srcdir
-simulation/build/scratch/*
+simulation/build/scratch/uet-ses-pds-demo.cc
+simulation/build/scratch/uet-advanced-demo.cc
+simulation/build/scratch/uet-complete-demo.cc
+simulation/build/scratch/uet-ses-pds-demo.cc
 simulation/**/ns3.18-*
 simulation/mix/*fct.txt
 simulation/mix/*.tr*
