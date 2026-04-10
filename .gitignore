@@ -11,6 +11,7 @@ simulation/build/scratch/uet-ses-pds-demo.cc
 simulation/build/scratch/uet-advanced-demo.cc
 simulation/build/scratch/uet-complete-demo.cc
 simulation/build/scratch/uet-ses-pds-demo.cc
+!simulation/build/scratch/uet-network-sim.cc
 simulation/**/ns3.18-*
 simulation/mix/*fct.txt
 simulation/mix/*.tr*
