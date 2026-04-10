@@ -3,5 +3,5 @@
 !.gitignore
 !subdir/
 !scratch-simulator.cc
-!uet-ses-pds-demo.cc
+!uet-network-sim.cc
 !CMakeLists.txt
